@@ -1,0 +1,24 @@
+[
+    {
+        "nama": "Layla",
+        "level": 5,
+        "rankend": false,
+        "role": "marksman",
+        "rank": ["elite","grandmaster","epic"],
+        "counterhero": {
+            "hero1": "hayabusa",
+            "hero2": "Khufra"
+        }
+    },
+    {
+        "nama": "Natan",
+        "level": 5,
+        "rankend": false,
+        "role": "marksman",
+        "rank": ["elite","grandmaster","epic"],
+        "counterhero": {
+            "hero1": "hayabusa",
+            "hero2": "Khufra"
+        }
+    }
+]
